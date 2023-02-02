@@ -1,0 +1,1 @@
+{"name":"Local: map","url":"c:\\Users\\user\\OneDrive\\Documents\\DEV C++\\code cheif\\Unacademy\\STL c++\\map.cpp","tests":[{"id":1659805654750,"input":"4\n3 8\n3 9\n4 4\n5 25","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Documents\\DEV C++\\code cheif\\Unacademy\\STL c++\\map.cpp","group":"local","local":true}
